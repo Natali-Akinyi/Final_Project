@@ -3,7 +3,8 @@
 Green Pips is a responsive trading website built as part of a final design project. The goal was to replicate the card layout from a large-screen mockup while creatively implementing small (SM) and medium (MD) screen designs. The site was developed using pure HTML, CSS, and JavaScript.
 
 
-All colors meet WCAG AA contrast compliance (checked via WebAIM Contrast Checker).
+All colors meet WCAG AA contrast compliance (checked via WebAIM Contrast Checker
+I have used majorly color green as a symbol of making prifits in the forex markets.
 
 📱 Breakpoint Logic
 LG (≥1024px) – Based on the provided mockup.
