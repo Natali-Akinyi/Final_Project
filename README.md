@@ -48,7 +48,7 @@ project-root/
     ├── logo.svg
     └── icons/
 🚀 Deployment
-Live Site: https://your-username.github.io/green-pips
+Live Site:https://natali-akinyi.github.io/Final_Project/
 
 Repository: https://github.com/your-username/green-pips
 
